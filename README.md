@@ -1,6 +1,7 @@
-# LuDecomposition
-
+# LuDecomposition 
 Introduction
+
+It is a group assignment form by 3 person.
 
 Often in computer science, it is important to solve a linear equation of the form A*x = B, with A being a matrix, x being a vector, and B being the solution vector. Rather than directly solving by matrix multiplication, A can be broken into two matrices L and U which is Lower Matrix and Upper Matrix. Lower Matrix which has non-zero values in a lower diagonal region of the matrix and the upper matrix which has non-zero values in the upper diagonal region of the matrix. 
 
